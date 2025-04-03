@@ -43,7 +43,6 @@ Para clonar este repositório, siga as instruções abaixo:
     cd [nome do repositório]
     ```
 
-    Substitua `[nome do repositório]` pelo nome do diretório do repositório.
 
 ## Instruções para Executar o Código
 
