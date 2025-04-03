@@ -24,7 +24,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $infracao     = htmlspecialchars(trim($_POST['infracao'] ?? 'N/A'));
     $local        = htmlspecialchars(trim($_POST['local'] ?? 'N/A'));
     $email_agente = htmlspecialchars(trim($_POST['email_agente'] ?? 'N/A'));
-    $data = htmlspecialchars(trim($_POST['date'] ?? 'N/A'));
 
     // !!! Olá futuro dev, deixei pronto aqui um esquema para adicionar novos dados ao formulário. !!!
     // Exemplo: $novo_campo = htmlspecialchars(trim($_POST['novo_campo'] ?? 'N/A'));

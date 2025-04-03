@@ -35,12 +35,6 @@
                     <input type="email" class="form-control" id="email_agente" name="email_agente" placeholder="agente@detran.varginha.gov" required>
                 </div>
 
-                <div class="mb-3">
-                    <label for="data" class="form-label">Data</label>
-                    <input type="date" class="form-control" id="data" name="date" required>
-                </div>
-
-
                 <div class="d-grid gap-2">
                      <button type="submit" class="btn btn-danger btn-lg">Registrar Multa</button>
                 </div>
